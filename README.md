@@ -78,8 +78,11 @@
   $$\sigma(z) = \frac{1}{1 + e^{-z}}$$
 * **Loss Optimization**: Negative Log-Likelihood objective translated into Binary Cross-Entropy:
 
-* **Loss Optimization**: Negative Log-Likelihood objective translated into Binary Cross-Entropy: $\mathcal{L}_{BCE} = -\frac{1}{N} \sum_{i=1}^N \left[ y_i \ln(\hat{y}_i) + (1 - y_i) \ln(1 - \hat{y}_i) \right]$
-* **Evaluation Diagnostics**: Precision, Recall, $F_1\text{-score}$ (harmonic balance), Confusion Matrix, and ROC-AUC curve.
+
+$$
+\mathcal{L}_{\text{BCE}} = -\frac{1}{N} \sum_{i=1}^{N} \left[ y_i \ln(\hat{y}_i) + (1 - y_i) \ln(1 - \hat{y}_i) \right]
+$$
+
 
 * **Evaluation Diagnostics**: Precision, Recall, $F_1\text{-score}$ (harmonic balance), Confusion Matrix, and ROC-AUC curve.
 * **Resampling Strategy**: Stratified K-Fold to prevent target frequency distortion during validation.
@@ -187,3 +190,25 @@ Special thanks to the **STP (Steps Towards Progress)** community, instructors, a
 This repository is licensed under the [MIT License](LICENSE) - feel free to use and adapt the code for learning purposes.
 
 If you find this repository helpful, consider giving it a ⭐!
+
+
+
+* **Loss Optimization**: Negative Log-Likelihood objective translated into Binary Cross-Entropy:
+
+$$
+\mathcal{L}_{\text{BCE}} = -\frac{1}{N} \sum_{i=1}^{N} \left[ y_i \ln(\hat{y}_i) + (1 - y_i) \ln(1 - \hat{y}_i) \right]
+$$
+
+* **Evaluation Diagnostics**: Precision, Recall, $F_1\text{-score}$ (harmonic balance), Confusion Matrix, and ROC-AUC curve.
+*
+
+* **Loss Optimization**: Negative Log-Likelihood objective translated into Binary Cross-Entropy:
+
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.latex?\color{white}\mathcal{L}_{\text{BCE}}=-\frac{1}{N}\sum_{i=1}^{N}\left[y_i\ln(\hat{y}_i)+(1-y_i)\ln(1-\hat{y}_i)\right]" alt="Binary Cross-Entropy Loss" />
+</p>
+
+* **Evaluation Diagnostics**: Precision, Recall, $F_1\text{-score}$ (harmonic balance), Confusion Matrix, and ROC-AUC curve.
+*
+
+
