@@ -77,6 +77,7 @@
 * **Logistic Mapping**: Mapping linear combiners to non-linear probabilities via Sigmoid:
   $$\sigma(z) = \frac{1}{1 + e^{-z}}$$
 * **Loss Optimization**: Negative Log-Likelihood objective translated into Binary Cross-Entropy:
+
 $$
 \mathcal{L}_{\text{BCE}} = -\frac{1}{N} \sum_{i=1}^{N} \left[ y_i \ln(\hat{y}_i) + (1 - y_i) \ln(1 - \hat{y}_i) \right]
 $$
