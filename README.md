@@ -172,7 +172,7 @@ This curriculum and its production outputs form a foundational pillar in my pers
 *Specialized in Machine Learning, Embedded Systems, and Analog IC Design*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mohammed--Nasr--Aldin-181717?logo=github&logoColor=white)](https://github.com/Mohammed-Nasr-Aldin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-nasreldin)
 
 ---
 
