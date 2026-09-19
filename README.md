@@ -178,7 +178,11 @@ This curriculum and its production outputs form a foundational pillar in my pers
 
 ## ⭐️ Acknowledgments
 
-Special thanks to the **STP (Steps Towards Progress)** community, instructors, and mentors for delivering an impactful and comprehensive Machine Learning curriculum.
+Special thanks to the **STP (Steps Towards Progress)** community, and a special recognition to our instructors and mentors for delivering an impactful and comprehensive Machine Learning curriculum:
+
+- [Ali Amr](https://www.linkedin.com/in/aliamr182005)
+- [Shams Magdy](https://www.linkedin.com/in/shams-magdy)
+- [Mariem Tarek](https://www.linkedin.com/in/mariem-tarek)
 
 ---
 
