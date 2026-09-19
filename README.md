@@ -36,9 +36,9 @@
 
 ```text
                                     Machine Learning Lifecycle
-┌───────────────────────────────────────────────────────────────────────────────────────────────────┐
+┌───────────────────────────────────────────────────────────────────────────────────────────────────────┐
 │ Business Diagnosis ➔ Exploratory Analytics ➔ Preprocessing ➔ Optimization ➔ Validation ➔ Release  │
-└───────────────────────────────────────────────────────────────────────────────────────────────────┘
+└───────────────────────────────────────────────────────────────────────────────────────────────────────┘
                                                   │
           ┌───────────────────────────────────────┴───────────────────────────────────────┐
           ▼                                                                               ▼
@@ -170,3 +170,17 @@ This curriculum and its production outputs form a foundational pillar in my pers
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mohammed--Nasr--Aldin-181717?logo=github&logoColor=white)](https://github.com/Mohammed-Nasr-Aldin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+---
+
+## ⭐️ Acknowledgments
+
+Special thanks to the **STP (Steps Towards Progress)** community, instructors, and mentors for delivering an impactful and comprehensive Machine Learning curriculum.
+
+---
+
+## 📄 License
+
+This repository is licensed under the [MIT License](LICENSE) - feel free to use and adapt the code for learning purposes.
+
+If you find this repository helpful, consider giving it a ⭐!
