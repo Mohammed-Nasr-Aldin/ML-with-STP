@@ -171,8 +171,34 @@ This curriculum and its production outputs form a foundational pillar in my pers
 *Electronics and Communications Engineering Student @ Ain Shams University*  
 *Specialized in Machine Learning, Embedded Systems, and Analog IC Design*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Mohammed--Nasr--Aldin-181717?logo=github&logoColor=white)](https://github.com/Mohammed-Nasr-Aldin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-nasreldin)
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <a href="https://github.com/Mohammed-Nasr-Aldin">
+        <img src="https://cdn.simpleicons.org/github/FFFFFF#gh-dark-mode-only" alt="GitHub" width="44" height="44">
+        <br><sub><b>GitHub</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.linkedin.com/in/mohammed-nasreldin">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="44" height="44">
+        <br><sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://wa.me/201156108363">
+        <img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" width="44" height="44">
+        <br><sub><b>WhatsApp</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="mailto:mohammednasrsmail@gmail.com">
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="44" height="44">
+        <br><sub><b>Email</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -191,3 +217,4 @@ Special thanks to the **STP (Steps Towards Progress)** community, and a special 
 This repository is licensed under the [MIT License](LICENSE) - feel free to use and adapt the code for learning purposes.
 
 If you find this repository helpful, consider giving it a ⭐!
+<p align="center"><sub>© Mohammed Nasr Eldin</sub></p>
