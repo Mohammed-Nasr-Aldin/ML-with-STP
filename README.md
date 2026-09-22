@@ -6,7 +6,7 @@
 **An end-to-end repository tracking machine learning algorithms: statistical foundations, EDA, optimization dynamics, tree ensembles, margin classifiers, and a fully deployed financial capstone application.**
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/Mohammed-Nasr-Aldin/ML-with-STP)
-[![Live Portfolio](https://img.shields.io/badge/Live-ML%20Portfolio-4F46E5?logo=googlechrome&logoColor=white)](https://github.com/Mohammed-Nasr-Aldin/ML-Portfolio)
+[![Live Portfolio](https://img.shields.io/badge/Live-ML%20Portfolio-4F46E5?logo=googlechrome&logoColor=white)](https://Mohammed-Nasr-Aldin.github.io/ML-Portfolio)
 [![Capstone Dashboard](https://img.shields.io/badge/Capstone-Credit%20Score%20Dashboard-FF4B4B?logo=streamlit&logoColor=white)](https://creditscore-dashboard.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
@@ -14,7 +14,7 @@
 
 <br>
 
-[**🌐 Open Live Portfolio**](https://github.com/Mohammed-Nasr-Aldin/ML-Portfolio) &nbsp;&nbsp;•&nbsp;&nbsp; [**🚀 Test Credit Score App**](https://creditscore-dashboard.streamlit.app/) &nbsp;&nbsp;•&nbsp;&nbsp; [**📑 Lecture Materials (Google Drive)**](https://drive.google.com/drive/folders/1N9PkLzjkwIPvVRdG7err-hu7tFiXfxEY)
+[**🌐 Open Live Portfolio**](https://Mohammed-Nasr-Aldin.github.io/ML-Portfolio) &nbsp;&nbsp;•&nbsp;&nbsp; [**🚀 Test Credit Score App**](https://creditscore-dashboard.streamlit.app/) &nbsp;&nbsp;•&nbsp;&nbsp; [**📑 Lecture Materials (Google Drive)**](https://drive.google.com/drive/folders/1N9PkLzjkwIPvVRdG7err-hu7tFiXfxEY)
 
 </div>
 
